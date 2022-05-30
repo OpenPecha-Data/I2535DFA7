@@ -1,0 +1,25 @@
+id: I2535DFA7
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:41:54.157209'
+last_modified: '2022-05-30T20:41:54.157230'
+parser: null
+source_metadata:
+  title: Fifth Shamarpa
+  language: bo
+  description: 'Texts by and about the Fifth Shamarpa, Könchok Yenlak (dkon mchog
+    yan lag, 1525–1583):'
+  volume:
+    f11C9:
+      title: A Song of Calling the Guru from Afar
+      base_file: f11C9.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
